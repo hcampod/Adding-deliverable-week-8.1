@@ -1,0 +1,2 @@
+--STEP 1
+--Q: What are  the Names of the artists  that  are Spanish and  was  born in 1936?
