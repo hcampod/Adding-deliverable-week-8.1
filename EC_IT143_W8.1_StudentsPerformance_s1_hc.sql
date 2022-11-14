@@ -1,0 +1,2 @@
+--STEP 1
+--Q: Aman want to know  how many male students completed the  test preparation? 
